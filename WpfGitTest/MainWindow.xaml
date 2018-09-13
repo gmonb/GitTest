@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Label Content="Kennismaking met GitHub" HorizontalAlignment="Left" Margin="53,56,0,0" VerticalAlignment="Top" Width="254" Height="36"/>
+        <Label Content="Kennismaking met Git" HorizontalAlignment="Left" Margin="53,56,0,0" VerticalAlignment="Top" Width="254" Height="36"/>
         <Button x:Name="btnBericht" Content="Bericht" HorizontalAlignment="Left" Margin="74,129,0,0" VerticalAlignment="Top" Width="139" Height="30" Click="Button_Click"/>
         <ListBox x:Name="lbBericht" HorizontalAlignment="Left" Height="165" Margin="74,186,0,0" VerticalAlignment="Top" Width="158"/>
 
